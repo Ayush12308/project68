@@ -1,0 +1,15 @@
+#myNavbar{
+    background:linear-gradient( #ba00af 20%, #0800ba 90%);;
+}
+
+.navbar-header{
+    background-color: black
+}
+li{
+    font-size: 20px;
+}
+
+#video{
+    width: 100%;
+    height: 500px;
+}
